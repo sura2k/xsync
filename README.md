@@ -2,7 +2,13 @@
 [![codecov](https://codecov.io/gh/antkorwin/xsync/branch/master/graph/badge.svg)](https://codecov.io/gh/antkorwin/xsync)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.antkorwin/xsync/badge.svg)](https://search.maven.org/search?q=g:com.antkorwin%20AND%20a:xsync)
 
-# XSync Library
+# XSync Library (i.e. Java synchronized by the value)
+
+DZONE Artical: https://dzone.com/articles/synchronized-by-the-value-of-the-object-in-java
+
+Original Article: http://antkorwin.com/concurrency/synchronization_by_value.html
+
+Alternate Solution: https://stackoverflow.com/questions/12450402/java-synchronizing-based-on-a-parameter-named-mutex-lock
 
 
 ## What is it
